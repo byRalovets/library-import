@@ -1,0 +1,2 @@
+C:\osasp\AppThatOutputsString\Debug\AppThatOutputsString.exe
+C:\osasp\AppThatOutputsString\Debug\AppThatOutputsString.pdb

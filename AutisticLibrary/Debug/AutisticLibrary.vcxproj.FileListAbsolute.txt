@@ -1,0 +1,2 @@
+C:\osasp\AutisticLibrary\Debug\AutisticLibrary.dll
+C:\osasp\AutisticLibrary\Debug\AutisticLibrary.pdb

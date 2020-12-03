@@ -1,0 +1,2 @@
+C:\osasp\AutisticInjection\Prey\Debug\Prey.exe
+C:\osasp\AutisticInjection\Prey\Debug\Prey.pdb

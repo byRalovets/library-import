@@ -1,0 +1,2 @@
+C:\osasp\DynamicAutisticImport\Debug\DynamicAutisticImport.exe
+C:\osasp\DynamicAutisticImport\Debug\DynamicAutisticImport.pdb
